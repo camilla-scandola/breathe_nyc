@@ -31,11 +31,13 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
 3. Created a health score for each borough by first normalizing all environmental metrics (pollution, noise, traffic, tree count) using scikit-learn’s `MinMaxScaler`, and then combining the normalized values into a single composite index.
 
 
-## 💡 Insights and Potential Initiatives  
+## 💡 Insights and future initiatives  
 
-- **Observation:** Investing in sustainability initiatives in the Bronx appears promising, as it could help reverse the borough’s current economic situation.  
-- **Practical Applications:**  
-  - Study historical price trends and environmental evolution, and build a predictive model that estimates future property prices considering environmental factors
-  - Analyze the correlations between social dynamics and environmental conditions, creating a zoom-in map with a health score specific to neighbourhoods
+- **Observation:** Investing in sustainability initiatives in the Bronx appears promising, as such efforts could help improve the borough’s current economic situation.  
+
+- **Future applications based on this data study:**  
+  - Analyze historical price trends and environmental changes to build a predictive model that estimates future property values based on environmental factors.  
+  - Examine correlations between social dynamics and environmental conditions, producing a detailed neighborhood-level map with localized health scores.
+
 
 ---
