@@ -14,7 +14,7 @@ Our main objective was to identify the most polluted areas in Greater New York b
 
 
 ## Business Idea:  
-Business Idea: Assess whether homes are reasonably priced based on air quality and public health conditions, and identify overlooked investment opportunities across different boroughs based on current environmental conditions
+**Business Idea**: Assess whether homes are reasonably priced based on air quality and public health conditions, and identify overlooked investment opportunities across different boroughs based on current environmental conditions
 
 ---
 
