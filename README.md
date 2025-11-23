@@ -42,7 +42,7 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
 
 ---
 
-## 🏙️ Bubble map vizualization of NYC
+## 🫧 Bubble map vizualization of NYC
 
 **Graphic representation**: PM2.5 concentration levels across NYC shown through a bubble density map
 
